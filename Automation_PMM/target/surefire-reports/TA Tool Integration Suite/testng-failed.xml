@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [TA Tool Integration Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="PMM.Testcase8">
+        <methods>
+          <include name="login"/>
+          <include name="endReport"/>
+        </methods>
+      </class> <!-- PMM.Testcase8 -->
+      <class name="PMM.Testcase13">
+        <methods>
+          <include name="testcase13"/>
+        </methods>
+      </class> <!-- PMM.Testcase13 -->
+      <class name="PMM.Testcase11">
+        <methods>
+          <include name="testcase11"/>
+        </methods>
+      </class> <!-- PMM.Testcase11 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [TA Tool Integration Suite] -->

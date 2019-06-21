@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]" verbose="0">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="PMM.Testcase8">
+        <methods>
+          <include name="testcase8"/>
+          <include name="login"/>
+          <include name="endReport"/>
+        </methods>
+      </class> <!-- PMM.Testcase8 -->
+      <class name="PMM.Testcase7">
+        <methods>
+          <include name="testcase7"/>
+        </methods>
+      </class> <!-- PMM.Testcase7 -->
+      <class name="PMM.Testcase13">
+        <methods>
+          <include name="testcase13"/>
+        </methods>
+      </class> <!-- PMM.Testcase13 -->
+      <class name="PMM.Testcase4">
+        <methods>
+          <include name="testcase4"/>
+        </methods>
+      </class> <!-- PMM.Testcase4 -->
+      <class name="PMM.Testcase5">
+        <methods>
+          <include name="testcase5"/>
+        </methods>
+      </class> <!-- PMM.Testcase5 -->
+      <class name="PMM.Testcase10">
+        <methods>
+          <include name="testcase10"/>
+        </methods>
+      </class> <!-- PMM.Testcase10 -->
+      <class name="PMM.Testcase9">
+        <methods>
+          <include name="testcase9"/>
+        </methods>
+      </class> <!-- PMM.Testcase9 -->
+      <class name="PMM.Testcase11">
+        <methods>
+          <include name="testcase11"/>
+        </methods>
+      </class> <!-- PMM.Testcase11 -->
+      <class name="PMM.Testcase6">
+        <methods>
+          <include name="testcase6"/>
+        </methods>
+      </class> <!-- PMM.Testcase6 -->
+      <class name="PMM.Testcase3">
+        <methods>
+          <include name="testcase3"/>
+        </methods>
+      </class> <!-- PMM.Testcase3 -->
+      <class name="PMM.Testcase2">
+        <methods>
+          <include name="testcase2"/>
+        </methods>
+      </class> <!-- PMM.Testcase2 -->
+      <class name="PMM.Testcase12">
+        <methods>
+          <include name="testcase12"/>
+        </methods>
+      </class> <!-- PMM.Testcase12 -->
+      <class name="PMM.Testcase1">
+        <methods>
+          <include name="testcase1"/>
+        </methods>
+      </class> <!-- PMM.Testcase1 -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
